@@ -1,0 +1,12 @@
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\mbal editor\mbal editor\bin\Release\mbal editor.exe.config
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\mbal editor\mbal editor\bin\Release\mbal editor.exe
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\mbal editor\mbal editor\bin\Release\mbal editor.pdb
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\mbal editor\mbal editor\bin\Release\mbal editor.xml
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\mbal editor\mbal editor\obj\Release\mbal editor.vbproj.AssemblyReference.cache
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\mbal editor\mbal editor\obj\Release\mbal_editor.Form1.resources
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\mbal editor\mbal editor\obj\Release\mbal_editor.Resources.resources
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\mbal editor\mbal editor\obj\Release\mbal editor.vbproj.GenerateResource.cache
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\mbal editor\mbal editor\obj\Release\mbal editor.vbproj.CoreCompileInputs.cache
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\mbal editor\mbal editor\obj\Release\mbal editor.exe
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\mbal editor\mbal editor\obj\Release\mbal editor.xml
+E:\Andrej backup\Andrej\PRIVATNO-duboko\Ostali\RingwormGo\RingwormGO\Andrej\mbal editor\mbal editor\obj\Release\mbal editor.pdb
